@@ -20017,6 +20017,9 @@ Child	Parent
 21fallqstes110_e1	21fallqstes110_a1
 21fallqstes110_f1	21fallqstes110_a1
 21fallqstes110_g1	21fallqstes110_a1
+21fallqstes110_h1	21fallqstes110_a1
+21fallqstes110_i1	21fallqstes110_a1
+21fallqstes110_j1	21fallqstes110_a1
 21fallqstes210_a1	21fallqstes110_a1
 21fallqstes210_b1	21fallqstes110_a1
 21fallqstes210_c1	21fallqstes110_a1
@@ -20089,6 +20092,7 @@ Child	Parent
 21fallqstsm131_fb	21fallqstsm131_e1
 21fallqstsm131_fc	21fallqstsm131_e1
 21fallqstsm131_fd	21fallqstsm131_e1
+21fallqstsm131_fe	21fallqstsm131_e1
 21fallqstsm131_ff	21fallqstsm131_e1
 21fallqstsm131_fg	21fallqstsm131_e1
 21fallqstsm131_fh	21fallqstsm131_e1
@@ -20107,6 +20111,7 @@ Child	Parent
 21fallqstsm132_a3	21fallqstsm132_a3
 21fallqstsm132_b2	21fallqstsm132_a3
 21fallqstsm132_b3	21fallqstsm132_a3
+21fallqstsm132_b4	21fallqstsm132_a3
 21fallqstsm132_c2	21fallqstsm132_a3
 21fallqstsm132_c3	21fallqstsm132_a3
 21fallqstsm132_c4	21fallqstsm132_a3
