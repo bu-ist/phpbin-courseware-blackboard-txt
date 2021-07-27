@@ -20375,5 +20375,7 @@ Child	Parent
 21fallgrsph661_a1	21fallcasma531_a1
 21fallcaslg111_b1	21fallcaslg111_b1
 21fallcaslg111_c1	21fallcaslg111_b1
-21fallcasen490_a1 21fallcasen490_a1
-21fallgrsen690_a1 21fallcasen490_a1
+21fallcasen490_a1	21fallcasen490_a1
+21fallgrsen690_a1	21fallcasen490_a1
+21fallcasps333_a1	21fallcasps333_a1
+21fallcasne333_a1	21fallcasps333_a1
